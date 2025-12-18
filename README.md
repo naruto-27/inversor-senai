@@ -105,3 +105,4 @@ Exemplos de opções do menu:
 Todos os eventos e erros são registrados em `pratica1_modbus.log`.
 
 
+# inversor-senai
