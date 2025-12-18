@@ -1,5 +1,5 @@
 ## PRÁTICA 1 – Cliente Modbus TCP em 
-## Turma Internet das coisas
+## Turma Internet das coisas -  Senai
 
 Este projeto implementa o cliente Modbus TCP da prática de **Programação de Dispositivos de Automação (Inversor)** usando a biblioteca `umodbus`.
 
