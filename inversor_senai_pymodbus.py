@@ -14,6 +14,9 @@ Características do código:
 - Tentativas automáticas (retries) em falhas de conexão
 - Log em arquivo (registro de ações e erros)
 
+
+
+
 Dependência:
 pip install umodbus
 """
