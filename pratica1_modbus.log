@@ -1,0 +1,477 @@
+2025-12-17 22:14:43,997 | INFO | == Início da execução: 17/12/2025 22:14:43 ==
+2025-12-17 22:14:52,897 | ERROR | \u274c Conexão Modbus falhou (1/3): timed out
+2025-12-17 22:14:56,311 | ERROR | \u274c Conexão Modbus falhou (2/3): timed out
+2025-12-17 22:14:59,723 | ERROR | \u274c Conexão Modbus falhou (3/3): timed out
+2025-12-17 22:15:00,124 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-17 22:15:00,125 | ERROR | Detalhe final: timed out
+2025-12-17 22:16:53,161 | ERROR | \u274c Conexão Modbus falhou (1/3): timed out
+2025-12-17 22:16:56,575 | ERROR | \u274c Conexão Modbus falhou (2/3): timed out
+2025-12-17 22:16:59,985 | ERROR | \u274c Conexão Modbus falhou (3/3): timed out
+2025-12-17 22:17:00,386 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-17 22:17:00,386 | ERROR | Detalhe final: timed out
+2025-12-17 22:17:56,801 | ERROR | \u274c Conexão Modbus falhou (1/3): timed out
+2025-12-17 22:18:00,214 | ERROR | \u274c Conexão Modbus falhou (2/3): timed out
+2025-12-17 22:18:03,616 | ERROR | \u274c Conexão Modbus falhou (3/3): timed out
+2025-12-17 22:18:04,017 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-17 22:18:04,017 | ERROR | Detalhe final: timed out
+2025-12-17 22:21:09,621 | INFO | Saindo... \u2705
+2025-12-18 08:36:24,539 | INFO | == Início da execução: 18/12/2025 08:36:24 ==
+2025-12-18 08:36:45,565 | ERROR | \u274c Conexão Modbus falhou (1/3): timed out
+2025-12-18 08:36:48,973 | ERROR | \u274c Conexão Modbus falhou (2/3): timed out
+2025-12-18 08:36:52,388 | ERROR | \u274c Conexão Modbus falhou (3/3): timed out
+2025-12-18 08:36:52,790 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-18 08:36:52,790 | ERROR | Detalhe final: timed out
+2025-12-18 08:39:44,257 | ERROR | \u274c Conexão Modbus falhou (1/3): timed out
+2025-12-18 08:39:47,662 | ERROR | \u274c Conexão Modbus falhou (2/3): timed out
+2025-12-18 08:39:51,076 | ERROR | \u274c Conexão Modbus falhou (3/3): timed out
+2025-12-18 08:39:51,477 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-18 08:39:51,477 | ERROR | Detalhe final: timed out
+2025-12-18 08:49:51,422 | INFO | == Início da execução: 18/12/2025 08:49:51 ==
+2025-12-18 08:49:59,765 | ERROR | \u274c Conexão Modbus falhou (1/3): timed out
+2025-12-18 08:50:03,177 | ERROR | \u274c Conexão Modbus falhou (2/3): timed out
+2025-12-18 08:50:06,586 | ERROR | \u274c Conexão Modbus falhou (3/3): timed out
+2025-12-18 08:50:06,987 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-18 08:50:06,988 | ERROR | Detalhe final: timed out
+2025-12-18 08:52:48,465 | ERROR | \u274c Conexão Modbus falhou (1/3): timed out
+2025-12-18 08:52:51,873 | ERROR | \u274c Conexão Modbus falhou (2/3): timed out
+2025-12-18 08:52:55,290 | ERROR | \u274c Conexão Modbus falhou (3/3): timed out
+2025-12-18 08:52:55,691 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-18 08:52:55,693 | ERROR | Detalhe final: timed out
+2025-12-18 08:53:05,942 | INFO | == Início da execução: 18/12/2025 08:53:05 ==
+2025-12-18 08:53:07,973 | ERROR | \u274c Erro inesperado (anti-quebra): 
+2025-12-18 08:53:08,377 | ERROR | \u274c Erro inesperado (anti-quebra): 
+2025-12-18 08:53:08,782 | ERROR | \u274c Erro inesperado (anti-quebra): 
+2025-12-18 08:53:09,184 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-18 08:53:09,184 | ERROR | Detalhe final: 
+2025-12-18 08:53:11,785 | ERROR | \u274c Erro inesperado (anti-quebra): 
+2025-12-18 08:53:12,188 | ERROR | \u274c Erro inesperado (anti-quebra): 
+2025-12-18 08:53:12,592 | ERROR | \u274c Erro inesperado (anti-quebra): 
+2025-12-18 08:53:12,994 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-18 08:53:12,995 | ERROR | Detalhe final: 
+2025-12-18 08:55:06,935 | INFO | == Início da execução: 18/12/2025 08:55:06 ==
+2025-12-18 08:55:09,197 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 08:55:09,205 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 08:55:09,609 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 08:55:09,614 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 08:55:10,019 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 08:55:10,024 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 08:55:10,425 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-18 08:55:10,426 | ERROR | Detalhe final: ValueError()
+2025-12-18 09:08:56,418 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:08:56,434 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:08:56,838 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:08:56,842 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:08:57,245 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:08:57,247 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:08:57,649 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-18 09:08:57,649 | ERROR | Detalhe final: ValueError()
+2025-12-18 09:09:02,681 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:09:02,682 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:09:03,084 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:09:03,087 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:09:03,489 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:09:03,490 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:09:03,891 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-18 09:09:03,891 | ERROR | Detalhe final: ValueError()
+2025-12-18 09:16:16,298 | INFO | == Início da execução: 18/12/2025 09:16:16 ==
+2025-12-18 09:16:18,550 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:16:18,648 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:16:19,050 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:16:19,052 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:16:19,455 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:16:19,457 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:16:19,859 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-18 09:16:19,860 | ERROR | Detalhe final: ValueError()
+2025-12-18 09:16:29,456 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:16:29,457 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:16:29,859 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:16:29,862 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:16:30,263 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:16:30,266 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:16:30,667 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-18 09:16:30,668 | ERROR | Detalhe final: ValueError()
+2025-12-18 09:17:42,356 | INFO | == Início da execução: 18/12/2025 09:17:42 ==
+2025-12-18 09:17:44,221 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:17:44,225 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:17:44,628 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:17:44,633 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:17:45,034 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:17:45,036 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:17:45,437 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-18 09:17:45,438 | ERROR | Detalhe final: ValueError()
+2025-12-18 09:17:51,334 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:17:51,336 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:17:51,739 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:17:51,742 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:17:52,164 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:17:52,165 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:17:52,566 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-18 09:17:52,566 | ERROR | Detalhe final: ValueError()
+2025-12-18 09:37:22,315 | INFO | == Início da execução: 18/12/2025 09:37:22 ==
+2025-12-18 09:37:24,365 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:37:24,369 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:37:24,772 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:37:24,775 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:37:25,202 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:37:25,203 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:37:25,605 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-18 09:37:25,606 | ERROR | Detalhe final: ValueError()
+2025-12-18 09:47:50,973 | INFO | == Início da execução: 18/12/2025 09:47:50 ==
+2025-12-18 09:47:53,085 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:47:53,089 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:47:53,493 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:47:53,497 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:47:53,900 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:47:53,903 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:47:54,304 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-18 09:47:54,305 | ERROR | Detalhe final: ValueError()
+2025-12-18 09:47:56,127 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:47:56,129 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:47:56,533 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:47:56,537 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:47:56,941 | ERROR | \u274c Erro inesperado (anti-quebra): ValueError()
+2025-12-18 09:47:56,946 | ERROR | Traceback (most recent call last):
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 127, in wrapper
+    return fn(sock, *args, **kwargs)
+  File "C:\inversor_senai\insersor.senai.py\inversor_senai_pymodbus.py", line 158, in mb_write_coil
+    tcp.send_message(msg, sock)
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\client\tcp.py", line 261, in send_message
+    response_error_adu = recv_exactly(sock.recv, exception_adu_size)
+  File "C:\Users\Usuario\AppData\Local\Programs\Python\Python313\Lib\site-packages\umodbus\utils.py", line 141, in recv_exactly
+    raise ValueError
+ValueError
+
+2025-12-18 09:47:57,347 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-18 09:47:57,348 | ERROR | Detalhe final: ValueError()
+2025-12-18 10:18:42,951 | INFO | == Início da execução: 18/12/2025 10:18:42 ==
+2025-12-18 10:18:47,928 | ERROR | \u274c Conexão Modbus falhou (1/3): TimeoutError('timed out')
+2025-12-18 10:18:51,337 | ERROR | \u274c Conexão Modbus falhou (2/3): TimeoutError('timed out')
+2025-12-18 10:18:54,749 | ERROR | \u274c Conexão Modbus falhou (3/3): TimeoutError('timed out')
+2025-12-18 10:18:55,150 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-18 10:18:55,150 | ERROR | Detalhe final: TimeoutError('timed out')
+2025-12-18 10:20:26,656 | INFO | == Início da execução: 18/12/2025 10:20:26 ==
+2025-12-18 10:20:31,172 | ERROR | \u274c Conexão Modbus falhou (1/3): TimeoutError('timed out')
+2025-12-18 10:20:34,573 | ERROR | \u274c Conexão Modbus falhou (2/3): TimeoutError('timed out')
+2025-12-18 10:20:37,980 | ERROR | \u274c Conexão Modbus falhou (3/3): TimeoutError('timed out')
+2025-12-18 10:20:38,381 | ERROR | \u274c Operação cancelada: não foi possível comunicar após tentativas.
+2025-12-18 10:20:38,381 | ERROR | Detalhe final: TimeoutError('timed out')
